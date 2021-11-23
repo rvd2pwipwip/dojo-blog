@@ -1,5 +1,3 @@
-import Home from "./Home";
-
 const BlogList = ({ blogs, title }) => {
 
   return (
